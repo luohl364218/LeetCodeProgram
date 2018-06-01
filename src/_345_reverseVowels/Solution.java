@@ -1,6 +1,7 @@
 package _345_reverseVowels;
 
 /*
+ *数组+对撞指针类型题目
  * introductions:编写一个函数，以字符串作为输入，反转该字符串中的元音字母。
  * created by Heylink on 2018/6/1 20:35
  */

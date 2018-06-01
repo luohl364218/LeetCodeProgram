@@ -1,7 +1,7 @@
 package _125_isPalindrome;
 
 /*
- * introductions:
+ * introductions:数组+对撞指针类型题目
  * created by Heylink on 2018/6/1 17:36
  */
 public class Solution {
